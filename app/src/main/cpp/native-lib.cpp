@@ -13,7 +13,7 @@ Java_com_mydemo_jnidemo_MainActivity_stringsFromJNI(
     struct timespec ts;
     clock_gettime(CLOCK_MONOTONIC, &ts);
 
-    /* using nano-seconds instead of seconds */
+    /* using 'nano-seconds' instead of 'seconds'. Seconds does not provide sufficient granularity and could lead to duplicate successive sentences */
     srand((time_t)ts.tv_nsec);
 
     jobjectArray result;
