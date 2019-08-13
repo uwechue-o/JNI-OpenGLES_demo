@@ -3,6 +3,8 @@
 
 /**
  * written by Oke Uwechue - 08/05/2019
+ *
+ * Generates a random-length sentence composed of a random set of words selected from a local dictionary
  */
 extern "C" JNIEXPORT jobjectArray JNICALL
 Java_com_mydemo_jnidemo_MainActivity_stringsFromJNI(
