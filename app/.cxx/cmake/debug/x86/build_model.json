@@ -1,0 +1,72 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "C:\\AndroidProjects_v3-5\\JniDemo",
+      "sdkFolder": "C:\\Users\\root\\AppData\\Local\\Android\\Sdk",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "C:\\AndroidProjects_v3-5\\JniDemo\\app\\build\\intermediates",
+      "gradleModulePathName": ":app",
+      "moduleRootFolder": "C:\\AndroidProjects_v3-5\\JniDemo\\app",
+      "makeFile": "C:\\AndroidProjects_v3-5\\JniDemo\\app\\src\\main\\cpp\\CMakeLists.txt",
+      "buildSystem": "CMAKE",
+      "compilerSettingsCacheFolder": "C:\\AndroidProjects_v3-5\\JniDemo\\.cxx",
+      "cxxFolder": "C:\\AndroidProjects_v3-5\\JniDemo\\app\\.cxx",
+      "ndkFolder": "C:\\Users\\root\\AppData\\Local\\Android\\Sdk\\ndk-bundle",
+      "ndkVersion": "20.0.5594570",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [],
+    "cFlagList": [],
+    "cppFlagsList": [
+      ""
+    ],
+    "variantName": "debug",
+    "soFolder": "C:\\AndroidProjects_v3-5\\JniDemo\\app\\build\\intermediates\\cmake\\debug\\lib",
+    "objFolder": "C:\\AndroidProjects_v3-5\\JniDemo\\app\\build\\intermediates\\cmake\\debug\\obj",
+    "jsonFolder": "C:\\AndroidProjects_v3-5\\JniDemo\\app\\.cxx\\cmake\\debug",
+    "gradleBuildOutputFolder": "C:\\AndroidProjects_v3-5\\JniDemo\\app\\.cxx\\cxx\\debug",
+    "isDebuggableEnabled": true,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A",
+      "X86",
+      "X86_64"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "X86",
+  "abiPlatformVersion": 23,
+  "cxxBuildFolder": "C:\\AndroidProjects_v3-5\\JniDemo\\app\\.cxx\\cmake\\debug\\x86",
+  "jsonFile": "C:\\AndroidProjects_v3-5\\JniDemo\\app\\.cxx\\cmake\\debug\\x86\\android_gradle_build.json",
+  "gradleBuildOutputFolder": "C:\\AndroidProjects_v3-5\\JniDemo\\app\\.cxx\\cxx\\debug\\x86",
+  "objFolder": "C:\\AndroidProjects_v3-5\\JniDemo\\app\\build\\intermediates\\cmake\\debug\\obj\\x86",
+  "buildCommandFile": "C:\\AndroidProjects_v3-5\\JniDemo\\app\\.cxx\\cmake\\debug\\x86\\build_command.txt",
+  "buildOutputFile": "C:\\AndroidProjects_v3-5\\JniDemo\\app\\.cxx\\cmake\\debug\\x86\\build_output.txt",
+  "modelOutputFile": "C:\\AndroidProjects_v3-5\\JniDemo\\app\\.cxx\\cmake\\debug\\x86\\build_model.json",
+  "cmake": {
+    "cmakeListsWrapperFile": "C:\\AndroidProjects_v3-5\\JniDemo\\app\\.cxx\\cxx\\debug\\x86\\CMakeLists.txt",
+    "toolchainWrapperFile": "C:\\AndroidProjects_v3-5\\JniDemo\\app\\.cxx\\cxx\\debug\\x86\\android_gradle_build.toolchain.cmake",
+    "buildGenerationStateFile": "C:\\AndroidProjects_v3-5\\JniDemo\\app\\.cxx\\cxx\\debug\\x86\\build_generation_state.json",
+    "cacheKeyFile": "C:\\AndroidProjects_v3-5\\JniDemo\\app\\.cxx\\cxx\\debug\\x86\\compiler_cache_key.json",
+    "compilerCacheUseFile": "C:\\AndroidProjects_v3-5\\JniDemo\\app\\.cxx\\cxx\\debug\\x86\\compiler_cache_use.json",
+    "compilerCacheWriteFile": "C:\\AndroidProjects_v3-5\\JniDemo\\app\\.cxx\\cxx\\debug\\x86\\compiler_cache_write.json",
+    "toolchainSettingsFromCacheFile": "C:\\AndroidProjects_v3-5\\JniDemo\\app\\.cxx\\cxx\\debug\\x86\\compiler_settings_cache.cmake",
+    "cmakeWrappingBaseFolder": "."
+  },
+  "jsonGenerationLoggingRecordFile": "C:\\AndroidProjects_v3-5\\JniDemo\\app\\.cxx\\cmake\\debug\\x86\\json_generation_record.json",
+  "compileCommandsJsonFile": "C:\\AndroidProjects_v3-5\\JniDemo\\app\\.cxx\\cmake\\debug\\x86\\compile_commands.json"
+}

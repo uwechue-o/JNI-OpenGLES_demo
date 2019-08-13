@@ -1,0 +1,8 @@
+# ninja log v5
+0	11	0	clean	ac261878755f97b9
+0	51	0	clean	ac261878755f97b9
+0	851	587422083	CMakeFiles/native-lib.dir/native-lib.cpp.o	c5bc23ae4583fc57
+852	945	587422083	C:/AndroidProjects_v3-5/JniDemo/app/build/intermediates/cmake/debug/obj/x86/libnative-lib.so	8c627d8f9999cbb2
+0	13	0	clean	ac261878755f97b9
+2	375	587426927	CMakeFiles/native-lib.dir/native-lib.cpp.o	c5bc23ae4583fc57
+375	468	587426927	C:/AndroidProjects_v3-5/JniDemo/app/build/intermediates/cmake/debug/obj/x86/libnative-lib.so	8c627d8f9999cbb2

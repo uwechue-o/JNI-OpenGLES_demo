@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JniDemo</string>
+
+    <string name="sentence">get next sentence</string>
+</resources>
